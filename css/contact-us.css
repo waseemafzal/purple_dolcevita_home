@@ -1,0 +1,115 @@
+.general_inquiry_form > form > table {
+    width: 100%;
+}
+.general_inquiry_form form  table tr  td  input[type=text] {
+    height: 50px;
+    padding-left: 9px;
+    width: 100%;
+    margin-bottom: 14px;
+    color: #656565;
+    font-size: 18px;
+    font-family: georgea;
+
+}
+.general_inquiry_form  form  table tr  td  textarea {
+    padding-left: 9px;
+    height: 147px;
+    width: 100%;
+    margin-bottom: 14px;
+    color: #656565;
+    font-size: 18px;
+    font-family: georgea;
+}
+.general_inquiry_form > form > p {
+    font-size: 18px;
+    padding-left: 3px;
+}
+
+.address {
+    font-family: georgea;
+}
+.address_heading {
+  border-bottom: 1px solid;
+    margin: 0 auto;
+    text-align: center;
+    text-transform: uppercase;
+    width: 70%;
+}
+.address .address_heading h3 {
+    font-size: 32px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.address_description {
+ font-size: 20px;
+    margin-top: 19px;
+    text-align: center;
+}
+
+/* contact us careers start... */
+.job_heading {
+    font-family: georgea;
+    color: #211F20;
+    border-bottom: 1px solid #211F20;
+    width: 330px;
+}
+
+.job_small_heading {
+    font-size: 18px;
+    color: #211F20;
+    margin-top: -6px;
+}
+.job_description {
+    margin-top: 24px;
+    font-size: 18px;
+    font-family: georgea;
+}
+
+.privilgeato_form > form > table {
+    width: 100%;
+}
+.privilgeato_form form  table tr  td  input[type=text] {
+    height: 50px;
+    padding-left: 9px;
+    width: 100%;
+    margin-bottom: 14px;
+    color: #656565;
+    font-size: 18px;
+    font-family: georgea;
+
+}
+.privilgeato_form  form  table tr  td  textarea {
+    padding-left: 9px;
+    height: 147px;
+    width: 100%;
+    margin-bottom: 14px;
+    color: #656565;
+    font-size: 18px;
+    font-family: georgea;
+}
+.privilgeato_form  form  table tr  td:nth-child(1) {
+    padding-right: 20px;
+}?
+
+#abc {
+    float: right;
+    margin-top: -192px;
+    width: 48%;
+    height: 178px;
+    padding-left: 9px;
+    color: #656565;
+    font-size: 18px;
+    font-family: georgea;
+}
+/* ...contact us careers end  */
+
+
+.width95ps {
+    width: 95%;
+}
+.margintopminus26px {
+    margin-top: -26px;
+}
+.margintop50px {
+    margin-top: 50px
+}

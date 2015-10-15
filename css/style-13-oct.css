@@ -1,0 +1,365 @@
+body {
+    overflow-x: hidden;
+}
+.clear{
+    clear:both;}
+/************************10-2-2015****************/
+.vita{padding: 0 12px;
+	}
+.dolcevita-heading{
+}
+.underline-34{
+	border-bottom: 1px solid;
+	display: block;
+	margin: 0 auto;
+	width: 34%;
+	}
+
+/********************** 13 oct ************/
+.unique-product{
+	position:relative;}
+.home-overlay-txt-box{
+	
+    position: absolute;
+    text-align: center;
+    
+	}
+.home-overlay-txt-box .home-overlay-txt{
+	display: block; margin-bottom: 8px;
+	}
+.home-overlay-txt-box a .img-readmore{
+	
+	}
+.emancipate	{
+top: 32%;left: 29%;
+}
+.furniture{
+	left: 23%;
+    top: 29%;
+	}	
+.nouveau{
+	left: 33%;
+    top: 47%;
+	}	
+.bold_beauty{
+	left: 46%;
+    top: 63%;
+	}	
+.watch_video{
+	left: 38%;
+    top: 89%;
+	}
+#VIDEO_playback{
+	z-index:-1;
+	position:absolute;}	
+	
+#img-play-back:hover{
+	opacity:0.5;
+	}
+#contact_map{
+	height:442px;}	
+.store-ifram{
+	margin:0 0 0 17% ;
+	}			
+/************************cutting edge ****************/
+	
+@font-face {
+    font-family: "CENTAUR";
+    src: url("fonts/FORUM-REGULAR_0.TTF");
+    src: url("fonts/ORANIENBAUM_2.TTF");
+    src: url("fonts/GEORGIA_1.TTF");
+}
+
+.nav > li {
+    margin-left: 0.8em;
+}
+.navbar-nav {
+    float: left;
+    margin: 0;
+    padding-left: 2%;
+}
+#diamond_img{
+    left: 3.7em;
+    position: absolute;
+    top: -6em;
+    z-index: 1;
+	width: 40%;
+}
+.navbar-toggle {
+    background-image: url("../images/nav-button.jpg");
+    padding: 13px 10px;
+}
+.diamond_img_wrap{
+
+
+}
+
+.products_wrap .col-sm-6 .w100p{
+    width:100%;
+    display:inline-block;
+}
+.container {
+    /*border:1px solid red;*/
+}
+.products_wrap{
+
+}	
+.width100{
+    width:100%;
+
+}	
+.width-auto{
+    width:auto;
+
+}
+#logo{
+    width: 90%;
+}
+.navbar-nav > li > a {
+    color: #000;
+    font-family: georgia;
+    font-size: 11px;
+    letter-spacing: 2px;
+    margin: 5px 0;
+    padding-bottom: 2px;
+    padding-top: 2px;
+}
+.navbar-nav > li > a:hover {
+}
+.dropdown-menu {
+    /*left: -27%;*/
+}
+.caret-equal{
+    padding: 0 0 0 1px;	
+}
+.dropdown-menu li{
+    text-align:center;
+
+}
+.dropdown-menu .divider-custum {
+    background-color: #828282;
+    height: 1px;
+    margin: 0 15%;
+    overflow: hidden;
+}
+.dropdown-menu > li > a {
+    font-family: georgia;
+    font-size: 0.79em;
+    letter-spacing: 1px;
+}
+
+
+.navbar {
+    border-bottom: 1px solid;
+    border-top: 2px solid #828282;
+    min-height: 38px;
+}	
+.LOGO_wrap{
+    padding: 2% 0;	
+}	
+.DText{
+    padding: 2% 0;	
+}
+#footer{
+    padding:0 0 1% 0;
+}
+.col-xs-12 .product_img{
+    width:100%;
+
+}
+.products_wrap  .col-xs-12 {
+    padding:0;
+
+}
+#img_copyright{
+
+    margin: 1em 0 0;
+}
+.product_div{
+    padding:20px 0 0 0;
+}
+map {
+    display: inline;
+}
+.main-container {
+    width: 1111px;
+    font-family: georgia;
+}
+.heading {
+   
+}
+.description {
+    margin-top: 20px !important ;
+    font-size: 16px;
+	padding: 0 15%;
+}
+/* luxury furniture start */
+
+.sub-pages {
+    width: 998px;
+}
+.sub-nav {
+    background-color: black;
+    color: white;
+    font-family: georgea;
+    width: 1172px;
+    height: 41px;
+    margin-left: -29px;
+}
+.sub-nav > ul {
+    height: 41px;
+    margin-bottom: 0px !important;
+    display: table-cell;
+    vertical-align: middle; 
+    text-transform: uppercase;
+}
+.sub-nav > ul > li div{
+    display:none;
+}
+.activeNav div{
+    display: block !important;
+}
+/*.sub-nav > ul > li {
+    display: inline-block;
+    padding-right: 22px;
+}*/
+.sub-nav > ul > li {
+    display: inline-block;
+    float: left;
+    margin: 13px 0 0 !important;
+    padding-right: 22px;
+}
+.sub-nav > ul > li > a {
+    color: white;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+.sub-nav > ul > li > a:active {
+    color: white;
+    text-decoration: none !important;
+}
+.nav>li>a:hover{text-decoration:none;background-color:#000; color:#fff;}
+.nav .open > a, .nav .open > a:focus, .nav .open > a:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+/* sub nav nouveau starts */   /*  new  */
+.sub-nav-nouveau {
+    width: 330px;
+}
+
+/* sub nav nouveau end */ 
+
+/* sub nav luxury_sleep_system starts */   /*  new  */
+.sub_nav_luxury_sleep_system {
+}
+.sub_nav_luxury_sleep_system > ul > li {
+    padding-right: 42px;
+}
+
+/* sub nav luxury_sleep_system ends */ 
+
+.end-product {
+    margin-top: 62px;
+    margin-left: -29px;
+    font-family: georgea;
+}
+.end-product .end-product-heading h3 {
+    margin-top: 0px;
+    font-size: 35px;
+    letter-spacing: 6px; 
+}
+.end-product .end-product-description {
+    padding-left: 17px;
+    font-size: 16px;
+}
+.end-product .end-product-description p {
+    margin: 0px;
+}
+
+/* luxury furniture end */
+
+
+/* Reuseable Classes starts...   */
+.w100p {
+    width: 100%;
+}
+.topleft0 {
+    top: 0;
+    left: 0;
+}
+.position-relative {
+    position: relative;
+}
+.textalcenter {
+    text-align: center;
+}
+.mgl1p {
+    margin: 0 0 0 1%;
+}
+.mgr10px {
+    margin-right: 10px;
+}
+.mg10px {
+    margin: 10px;
+}
+.mgb0px {
+    margin-bottom: 0px;
+}
+.margintop30px {
+    margin-top: 30px;
+}
+.margin0auto {
+    margin: 0 auto;
+}
+.pdngtb3p {
+    padding: 3% 0;
+}
+.padding0 {
+    padding: 0;
+}
+.paddingr10px {
+    padding-right: 10px;
+}
+.paddingl10px {
+    padding-left: 10px;
+}
+.bdrradius0 {
+    border-radius: 0px;
+}
+.hminus1px {
+    height: -1px;
+}
+.h50px {
+    height: 50px;
+}
+.mglminus8px {
+    margin-left: -8px;
+}
+.displayinlineblck {
+    display: inline-block;
+}
+.borderbottom{
+    border-bottom: 1px solid black;
+}
+.maginl118px {
+    margin: 73px 0px 73px 118px;
+}
+.paddingl32px {
+    padding-left: 32px;
+}
+.paddingr0px {
+    padding-right: 0px;
+}
+.margintop28px {
+    margin-top: 28px;
+}
+.marginttopm2px {
+    margin-top: -2px;
+}
+.displayblock {
+    display: block;
+}
+
+/* ...Reuseable Classes end   */
