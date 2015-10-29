@@ -1,76 +1,148 @@
+
 body {
     overflow-x: hidden;
 }
-.clear{
-    clear:both;}
-/************************10-2-2015****************/
-.vita{padding: 0 12px;
-	}
-.dolcevita-heading{
+.clear {
+    clear: both;
 }
-.underline-34{
-	border-bottom: 1px solid;
-	display: block;
-	margin: 0 auto;
-	width: 34%;
-	}
+
+/***************************************************************** 10/28/2015***********************/
 
 
-/********************** 13 oct ************/
-.unique-product{
-	position:relative;}
-.home-overlay-txt-box{
-	
+
+.job_applying {
+    padding-bottom: 4%;
+}
+.input_left_wrap {
+    float: left;
+    padding: 0;
+}
+.input_left_wrap div {
+    display: block;
+}
+.input_left_wrap div input {
+    border: 0 none;
+    display: block;
+    font-style: italic;
+    height: 40px;
+    margin: 0 0 14px;
+    padding: 7px 7px 5px 5px;
+}
+.input_right_wrap {
+}
+.input_right_wrap div input {
+   border: medium none;
+    display: block;
+    font-style: italic;
+    height: 40px;
+    margin: 0 0 14px;
+    padding: 7px 7px 5px 5px;
+}
+.input_left_wrap div label {
+    display: inline-block;
+    float: left;
+    margin: 16px 21px 0 0;
+}
+.input_left_wrap div {
+    border: 1px solid #b9b9b9;
+    display: block;
+    height: 43px;
+    margin: 0 0 15px;
+}
+.input_right_wrap div {
+   border: 1px solid #b9b9b9;
+    display: block;
+    height: 43px;
+    margin: 0 0 15px;
+}
+.input_left_wrap div .file {
+    margin: 0;
+    padding: 0;
+}
+#btn_submit {
+    background-image: url("../images/contact-us/careers/apply_now.png");
+    background-repeat: no-repeat;
+    border: 0 none;
+    float: right;
+    margin: 4% 0 0;
+    width: 26%;
+}
+.req_steric {
+    float: right;
+    font-size: 24px;
+    padding: 8px 0 0;
+    width: 18px;
+}
+.input_left_wrap div .label-required {
+    display: inline-block;
+    float: left;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: normal;
+    margin: 16px 21px 0 0;
+}
+/**************************************************/
+.vita {
+    padding: 0 12px;
+}
+.dolcevita-heading {
+}
+.underline-34 {
+    border-bottom: 1px solid;
+    display: block;
+    margin: 0 auto;
+    width: 34%;
+}
+.unique-product {
+    position: relative;
+}
+.home-overlay-txt-box {
     position: absolute;
     text-align: center;
-    
-	}
-.home-overlay-txt-box .home-overlay-txt{
-	display: block; margin-bottom: 8px;
-	}
-.home-overlay-txt-box a .img-readmore{
-	
-	}
-.emancipate	{
-top: 32%;left: 29%;
 }
-.furniture{
-	left: 23%;
+.home-overlay-txt-box .home-overlay-txt {
+    display: block;
+    margin-bottom: 8px;
+}
+.home-overlay-txt-box a .img-readmore {
+}
+.emancipate {
+    left: 29%;
+    top: 32%;
+}
+.furniture {
+    left: 23%;
     top: 29%;
-	}	
-.nouveau{
-	left: 33%;
+}
+.nouveau {
+    left: 33%;
     top: 47%;
-	}	
-.bold_beauty{
-	left: 46%;
+}
+.bold_beauty {
+    left: 46%;
     top: 63%;
-	}	
-.watch_video{
-	left: 38%;
+}
+.watch_video {
+    left: 38%;
     top: 89%;
-	}
-#VIDEO_playback{
-	z-index:-1;
-	position:absolute;}	
-	
-#img-play-back:hover{
-	opacity:0.5;
-	}
-#contact_map{
-	height:442px;}	
-.store-ifram{
-	margin:0 0 0 17% ;
-	}	
-/************************cutting edge ****************/
-	
+}
+#VIDEO_playback {
+    position: absolute;
+    z-index: -1;
+}
+#img-play-back:hover {
+    opacity: 0.5;
+}
+#contact_map {
+    height: 442px;
+}
+.store-ifram {
+    margin: 0 0 0 17%;
+}
 @font-face {
     font-family: "CENTAUR";
-    src: url("fonts/FORUM-REGULAR_0.TTF");
-    src: url("fonts/ORANIENBAUM_2.TTF");
     src: url("fonts/GEORGIA_1.TTF");
 }
-
 .nav > li {
     margin-left: 0.8em;
 }
@@ -79,41 +151,34 @@ top: 32%;left: 29%;
     margin: 0;
     padding-left: 2%;
 }
-#diamond_img{
+#diamond_img {
     left: 3.7em;
     position: absolute;
     top: -6em;
+    width: 40%;
     z-index: 1;
-	width: 40%;
 }
 .navbar-toggle {
     background-image: url("../images/nav-button.jpg");
     padding: 13px 10px;
 }
-.diamond_img_wrap{
-
-
+.diamond_img_wrap {
 }
-
-.products_wrap .col-sm-6 .w100p{
-    width:100%;
-    display:inline-block;
+.products_wrap .col-sm-6 .w100p {
+    display: inline-block;
+    width: 100%;
 }
 .container {
-    /*border:1px solid red;*/
 }
-.products_wrap{
-
-}	
-.width100{
-    width:100%;
-
-}	
-.width-auto{
-    width:auto;
-
+.products_wrap {
 }
-#logo{
+.width100 {
+    width: 100%;
+}
+.width-auto {
+    width: auto;
+}
+#logo {
     width: 90%;
 }
 .navbar-nav > li > a {
@@ -128,14 +193,12 @@ top: 32%;left: 29%;
 .navbar-nav > li > a:hover {
 }
 .dropdown-menu {
-    /*left: -27%;*/
 }
-.caret-equal{
-    padding: 0 0 0 1px;	
+.caret-equal {
+    padding: 0 0 0 1px;
 }
-.dropdown-menu li{
-    text-align:center;
-
+.dropdown-menu li {
+    text-align: center;
 }
 .dropdown-menu .divider-custum {
     background-color: #828282;
@@ -148,54 +211,46 @@ top: 32%;left: 29%;
     font-size: 0.79em;
     letter-spacing: 1px;
 }
-
-
 .navbar {
     border-bottom: 1px solid;
     border-top: 2px solid #828282;
     min-height: 38px;
-}	
-.LOGO_wrap{
-    padding: 2% 0;	
-}	
-.DText{
-    padding: 2% 0;	
 }
-#footer{
-    padding:0 0 1% 0;
+.LOGO_wrap {
+    padding: 2% 0;
 }
-.col-xs-12 .product_img{
-    width:100%;
-
+.DText {
+    padding: 2% 0;
 }
-.products_wrap  .col-xs-12 {
-    padding:0;
-
+#footer {
+    padding: 0 0 1%;
 }
-#img_copyright{
-
+.col-xs-12 .product_img {
+    width: 100%;
+}
+.products_wrap .col-xs-12 {
+    padding: 0;
+}
+#img_copyright {
     margin: 1em 0 0;
 }
-.product_div{
-    padding:20px 0 0 0;
+.product_div {
+    padding: 20px 0 0;
 }
 map {
     display: inline;
 }
 .main-container {
-    width: 1111px;
     font-family: georgia;
+    width: 1111px;
 }
 .heading {
-   
 }
 .description {
-    margin-top: 20px !important ;
     font-size: 16px;
-	padding: 0 15%;
+    margin-top: 20px !important;
+    padding: 0 15%;
 }
-/* luxury furniture start */
-
 .sub-pages {
     width: 998px;
 }
@@ -203,27 +258,23 @@ map {
     background-color: black;
     color: white;
     font-family: georgea;
-    width: 1172px;
     height: 41px;
     margin-left: -29px;
+    width: 1172px;
 }
 .sub-nav > ul {
-    height: 41px;
-    margin-bottom: 0px !important;
     display: table-cell;
-    vertical-align: middle; 
+    height: 41px;
+    margin-bottom: 0 !important;
     text-transform: uppercase;
+    vertical-align: middle;
 }
-.sub-nav > ul > li div{
-    display:none;
+.sub-nav > ul > li div {
+    display: none;
 }
-.activeNav div{
+.activeNav div {
     display: block !important;
 }
-/*.sub-nav > ul > li {
-    display: inline-block;
-    padding-right: 22px;
-}*/
 .sub-nav > ul > li {
     display: inline-block;
     float: left;
@@ -232,63 +283,53 @@ map {
 }
 .sub-nav > ul > li > a {
     color: white;
-    text-decoration: none;
     letter-spacing: 1px;
+    text-decoration: none;
 }
 .sub-nav > ul > li > a:active {
     color: white;
     text-decoration: none !important;
 }
-.nav>li>a:hover{text-decoration:none;background-color:#000; color:#fff;}
+.nav > li > a:hover {
+    background-color: #000;
+    color: #fff;
+    text-decoration: none;
+}
 .nav .open > a, .nav .open > a:focus, .nav .open > a:hover {
     background-color: #000;
     color: #fff;
 }
-
-/* sub nav nouveau starts */   /*  new  */
 .sub-nav-nouveau {
     width: 330px;
 }
-
-/* sub nav nouveau end */ 
-
-/* sub nav luxury_sleep_system starts */   /*  new  */
 .sub_nav_luxury_sleep_system {
 }
 .sub_nav_luxury_sleep_system > ul > li {
     padding-right: 42px;
 }
-
-/* sub nav luxury_sleep_system ends */ 
-
 .end-product {
-    margin-top: 62px;
-    margin-left: -29px;
     font-family: georgea;
+    margin-left: -29px;
+    margin-top: 62px;
 }
 .end-product .end-product-heading h3 {
-    margin-top: 0px;
     font-size: 35px;
-    letter-spacing: 6px; 
+    letter-spacing: 6px;
+    margin-top: 0;
 }
 .end-product .end-product-description {
-    padding-left: 17px;
     font-size: 16px;
+    padding-left: 17px;
 }
 .end-product .end-product-description p {
-    margin: 0px;
+    margin: 0;
 }
-
-/* luxury furniture end */
-
-
-/* Reuseable Classes starts...   */
 .w100p {
     width: 100%;
 }
 .topleft0 {
-    top: 0;
     left: 0;
+    top: 0;
 }
 .position-relative {
     position: relative;
@@ -306,7 +347,7 @@ map {
     margin: 10px;
 }
 .mgb0px {
-    margin-bottom: 0px;
+    margin-bottom: 0;
 }
 .margintop30px {
     margin-top: 30px;
@@ -327,10 +368,9 @@ map {
     padding-left: 10px;
 }
 .bdrradius0 {
-    border-radius: 0px;
+    border-radius: 0;
 }
 .hminus1px {
-    height: -1px;
 }
 .h50px {
     height: 50px;
@@ -341,17 +381,17 @@ map {
 .displayinlineblck {
     display: inline-block;
 }
-.borderbottom{
+.borderbottom {
     border-bottom: 1px solid black;
 }
 .maginl118px {
-    margin: 73px 0px 73px 118px;
+    margin: 73px 0 73px 118px;
 }
 .paddingl32px {
     padding-left: 32px;
 }
 .paddingr0px {
-    padding-right: 0px;
+    padding-right: 0;
 }
 .margintop28px {
     margin-top: 28px;
@@ -362,5 +402,6 @@ map {
 .displayblock {
     display: block;
 }
-
-/* ...Reuseable Classes end   */
+.no-border{
+	border:none !important;
+	}

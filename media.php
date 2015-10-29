@@ -19,11 +19,14 @@
             position: relative;
         }
         #box_slider{
-            margin:6% 0 0 0 ;
+            margin:10% 0 0 ;
         }
         .bx-wrapper .bx-pager {
             display: none;
         }
+		.bx-wrapper {
+	box-shadow: none;
+	}
     </style>
 
     <div class="container margin0auto">
@@ -40,6 +43,7 @@
                 <li><a href="#" ><img src="images/Media/Dolce-Vita-Website_13.png" /></a></li>
                 <li><a href="#" ><img src="images/Media/Dolce-Vita-Website_15.png" /></a></li>
             </ul>
+           
         </div>
       </div>
 </div>

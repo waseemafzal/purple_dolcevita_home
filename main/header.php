@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <title>DolceVita</title>
-        <base href="http://127.0.0.1/dolcevita/">
+        <base href="http://127.0.0.1/git/purple_dolcevita_home/">
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -37,11 +37,12 @@
                 //SLIDER FOR MEDIA
 			  $('.bxslider').bxSlider({
 				  auto: true,
-                    minSlides: 3,
+				    minSlides: 3,
                     maxSlides: 3,
-                    slideWidth: 295,
-                    slideMargin: 30
-                });
+                    slideWidth: 320,
+                    slideMargin: 35,
+					
+  });
 				// vieo in bx slider of home page
 				//$('.bxslider-video').bxSlider({
 //				  video: true,
@@ -55,7 +56,7 @@
         <div class="row LOGO_wrap">
             <div class="col-xs-12 col-md-4 col-md-offset-4 ">
 
-                <a href="http://127.0.0.1/dolcevita"><img class="col-xs-12"  id="logo" src="images/logo.png"></a>
+                <a href="http://127.0.0.1/git/purple_dolcevita_home/"><img class="col-xs-12"  id="logo" src="images/logo.png"></a>
 
             </div>
         </div>

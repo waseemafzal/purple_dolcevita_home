@@ -86,12 +86,12 @@
                         </tr>
                         <tr>
                             <td class="displayblock">
-                                <input type="text" placeholder="City">
+                                <input type="text" placeholder="Name of Business">
                             </td>
                         </tr>
                         <tr>
                             <td class="displayblock">
-                                <input type="text" placeholder="City">
+                                <input type="text" placeholder="Emain Address">
                             </td>
                         </tr>
                     </table>
