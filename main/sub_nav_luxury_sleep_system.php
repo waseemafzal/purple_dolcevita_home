@@ -36,14 +36,14 @@
             </a>
             <div><img src="images/arrow.png"></div>
         </li>
-        <li class="<?php if (basename($_SERVER['PHP_SELF']) == 'luxuryfurniturebeds.php') echo 'activeNav'; ?>">
-            <a href="accessories.php">
+       <li class="<?php if (basename($_SERVER['PHP_SELF']) == 'luxuryfurniturebeds.php') echo 'activeNav'; ?>">
+            <a href="#">
                 <img src="images/luxury-furniture/luxury-sleep-system/soft-plush/soft_plush.png">
             </a>
             <div><img src="images/arrow.png"></div>
         </li>
         <li class="<?php if (basename($_SERVER['PHP_SELF']) == 'luxury_sleep_system_sleep_tonic.php') echo 'activeNav'; ?>">
-            <a href="luxury_sleep_system_sleep_tonic.php">
+            <a href="#">
                 <img src="images/luxury-furniture/luxury-sleep-system/soft-plush/soft_plush.png">
             </a>
             <div><img src="images/arrow.png"></div>

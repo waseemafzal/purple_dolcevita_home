@@ -302,6 +302,9 @@ map {
 .sub-nav-nouveau {
     width: 330px;
 }
+.sub-nav-restoration {
+    width: 360px;
+}
 .sub_nav_luxury_sleep_system {
 }
 .sub_nav_luxury_sleep_system > ul > li {
@@ -385,7 +388,7 @@ map {
     border-bottom: 1px solid black;
 }
 .maginl118px {
-    margin: 73px 0 73px 118px;
+    margin: 72px 0 66px 42px;
 }
 .paddingl32px {
     padding-left: 32px;

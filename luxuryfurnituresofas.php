@@ -8,23 +8,8 @@
                 </div>
             </div>
             <div class="main-container margin0auto">
-                <div class="row margin0auto sub-pages">
-                    <div class="displayinlineblck maginl118px">
-                        <a href="#">
-                            <img src="images/luxury-furniture/beds/doclevita_home.png">
-                        </a>
-                    </div>
-                    <div class="displayinlineblck maginl118px">
-                        <a href="#">
-                            <img src="images/luxury-furniture/beds/nouveau.png">
-                        </a>
-                    </div>
-                    <div class="displayinlineblck maginl118px">
-                        <a href="#">
-                            <img src="images/luxury-furniture/beds/restoration_living.png">
-                        </a>
-                    </div>
-                </div>
+                		<?php include_once "main/subpages-logos-link.php" ?>
+
 						<?php require_once "main/subNav.php"?>
                 <div class="end-product row">
                     <div class="col-md-6 padding0">

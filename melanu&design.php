@@ -4,18 +4,16 @@
 <div class="container margin0auto">
     <div class="row">
         <div>
-            <img class="col-xs-12" src="images/luxury-furniture/nouveau/accessories/slider.png">
+            <img class="col-xs-12" src="images/M&D/slider.png">
         </div>
     </div>
     <div class="main-container margin0auto">
                         <?php include_once "main/subpages-logos-link.php" ?>
-
-
-        <?php require_once "main/subnavnouveau.php" ?>
+        <?php //require_once "main/subnavnouveau.php" ?>
 
         <div class="end-product row">
             <div class="col-md-6 padding0">
-                <img src="images/luxury-furniture/nouveau/accessories/image.png" class="w100p">
+                <img src="images/M&D/Dolce-Vita-Website-updated-option-5_10.png" class="w100p">
             </div>
             <div class="col-md-6 paddingl32px paddingr0px">
                 <div class="end-product-heading">

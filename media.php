@@ -54,15 +54,15 @@
     </div>
     <div class="container margin0auto">
         <div class="row">
-            <a href="#"><img class="bold-beautiful" src="images/Media/Dolce-Vita-bold-beauty-neha-ahmad.png"/></a>
-            <a href="#"><img class="bold-beautiful" src="images/Media/Dolce-Vita-bold-beauty-mehreen-syed.png"/></a>
-            <a href="#"><img class="bold-beautiful" src="images/Media/Dolce-Vita-bold-beauty-nadia-hussain.png"/></a>
-            <a href="#"><img class="bold-beautiful" src="images/Media/Dolce-Vita-bold-beauty-nael-ahmad.png"/></a>
-            <a href="#"><img class="bold-beautiful" src="images/Media/Dolce-Vita-bold-beauty-neha-ahmad.png"/></a>
-            <a href="#"><img class="bold-beautiful" src="images/Media/Dolce-Vita-bold-beauty-sabina-pasha.png"/></a>
-            <a href="#"><img class="bold-beautiful" src="images/Media/Dolce-Vita-bold-beauty-zara-peerzada.png"/></a>
-            <a href="#"><img class="bold-beautiful" src="images/Media/Dolce-Vita-bold-beauty-rabia-butt.png"/></a>
-            <a href="#"><img class="bold-beautiful" src="images/Media/Dolce-Vita-bold-beauty-emaad-irfani.png"/></a>
+            <a href="detail-mehreen-raheel.php"><img class="bold-beautiful" src="images/Media/Dolce-Vita-bold-beauty-mehreen-raheel.png"/></a>
+            <a href="detail-mehreen-syed.php"><img class="bold-beautiful" src="images/Media/Dolce-Vita-bold-beauty-mehreen-syed.png"/></a>
+            <a href="detail-nadia-hussain.php"><img class="bold-beautiful" src="images/Media/Dolce-Vita-bold-beauty-nadia-hussain.png"/></a>
+            <a href="detail-nael-ahmad.php"><img class="bold-beautiful" src="images/Media/Dolce-Vita-bold-beauty-nael-ahmad.png"/></a>
+            <a href="detail-neha-ahmad.php"><img class="bold-beautiful" src="images/Media/Dolce-Vita-bold-beauty-neha-ahmad.png"/></a>
+            <a href="detail-sabina-pasha.php"><img class="bold-beautiful" src="images/Media/Dolce-Vita-bold-beauty-sabina-pasha.png"/></a>
+            <a href="detail-zara-peerzada.php"><img class="bold-beautiful" src="images/Media/Dolce-Vita-bold-beauty-zara-peerzada.png"/></a>
+            <a href="detail-rabia-butt.php"><img class="bold-beautiful" src="images/Media/Dolce-Vita-bold-beauty-rabia-butt.png"/></a>
+            <a href="detail-emad-irfani.php"><img class="bold-beautiful" src="images/Media/Dolce-Vita-bold-beauty-emaad-irfani.png"/></a>
 
         </div>
     </div>  

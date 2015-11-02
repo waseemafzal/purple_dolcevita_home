@@ -15,6 +15,7 @@
         <script src="js/bootstrap.min.js"></script>
         <script src="js/bxslider/jquery.bxslider.js"></script>
         <link rel="stylesheet" href="js/bxslider/jquery.bxslider.css"> 
+        
 <script src="js/bxslider/jquery.fitvids.js"></script>
         <script>
             $(document).ready(function () {

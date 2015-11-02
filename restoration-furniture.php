@@ -11,7 +11,7 @@
                         <?php include_once "main/subpages-logos-link.php" ?>
 
 
-        <?php require_once "main/subnavnouveau.php" ?>
+        <?php require_once "main/subnav-restoration.php" ?>
 
         <div class="end-product row">
             <div class="col-md-6 padding0">
