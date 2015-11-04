@@ -9,14 +9,15 @@
         <link rel='stylesheet' href='css/awesom_font.css'>
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/media.css">
+        <link rel="stylesheet" href="css/homeblog.css">
         <link rel="stylesheet" href="css/contact-us.css">
 
         <script src="js/jquery.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
         <script src="js/bxslider/jquery.bxslider.js"></script>
         <link rel="stylesheet" href="js/bxslider/jquery.bxslider.css"> 
-        
-<script src="js/bxslider/jquery.fitvids.js"></script>
+
+        <script src="js/bxslider/jquery.fitvids.js"></script>
         <script>
             $(document).ready(function () {
                 $(".dropdown").hover(
@@ -28,7 +29,7 @@
                 }
                 );
 
-               // $(function () {
+                // $(function () {
 //                    $('.sub-nav ul li').on('click', function () {
 //
 //                        /*$( this ).parent().find('.sub-nav ul li').removeClass( 'activeNav' );
@@ -36,20 +37,40 @@
 //                    });
 //                });
                 //SLIDER FOR MEDIA
-			  $('.bxslider').bxSlider({
-				  auto: true,
-				    minSlides: 3,
+                $('.bxslider').bxSlider({
+                    auto: true,
+                    minSlides: 3,
                     maxSlides: 3,
                     slideWidth: 320,
                     slideMargin: 35,
-					
-  });
-				// vieo in bx slider of home page
-				//$('.bxslider-video').bxSlider({
+                });
+
+                $('.xyz').bxSlider({
+                    slideWidth: 1005,
+                    pager: false
+//                    buildPager: function (slideIndex) {
+//                        switch (slideIndex) {
+//                            case 0:
+//                                return '<a href="i_am_king.php"><img src="images/homeblog/dolcevitachair.png"></a>';
+//                            case 1:
+//                                return '<img src="images/homeblog/conecting-to-dream-makers.png">';
+//                        }
+//                    }
+                });
+                $('.you_may_also_like').bxSlider({
+                    minSlides: 3,
+                    maxSlides: 3,
+                    slideWidth: 320,
+                    slideMargin: 35,
+                    pager: false
+                });
+
+                // vieo in bx slider of home page
+                //$('.bxslider-video').bxSlider({
 //				  video: true,
 //				  useCSS: false
 //				});
-				
+
             });
         </script>
     </head>

@@ -31,7 +31,7 @@ body {
 .input_right_wrap {
 }
 .input_right_wrap div input {
-   border: medium none;
+    border: medium none;
     display: block;
     font-style: italic;
     height: 40px;
@@ -50,7 +50,7 @@ body {
     margin: 0 0 15px;
 }
 .input_right_wrap div {
-   border: 1px solid #b9b9b9;
+    border: 1px solid #b9b9b9;
     display: block;
     height: 43px;
     margin: 0 0 15px;
@@ -406,5 +406,14 @@ map {
     display: block;
 }
 .no-border{
-	border:none !important;
-	}
+    border:none !important;
+}
+.font_style {
+    font-family: georgia;
+}
+.fontsize18px {
+    font-size: 18px;
+}
+.fontsize20px {
+    font-size: 20px;
+}

@@ -1,0 +1,44 @@
+.border_bottom {
+    border-bottom: 1px solid black;
+}
+.letterspace3px {
+    letter-spacing: 3px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+> a:active {
+    text-decoration: none !important;
+}
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+
+.marginbottom68px {
+    margin-bottom: 68px;
+}
+.marginbottom30px {
+    margin-bottom: 30px;
+}
+.marginleft28px {
+    margin-left: 28px;
+}
+.marginbottom115px {
+    margin-bottom: 115px;
+}
+.marginbottom15px {
+    margin-bottom: 15px;
+}
+.textalleft {
+    text-align: left;
+}
+.w995px {
+    width: 995px;
+}
+.paddinglr52px {
+    padding-left: 52px;
+    padding-right: 52px;
+}
