@@ -88,7 +88,7 @@
     </div>
     <div>
         <div>
-            <a href="#"><img src="images/Media/greenhat.png"></a>
+            <a href="homeblog.php"><img src="images/Media/greenhat.png"></a>
             
             <br>
             <br>

@@ -12,14 +12,15 @@ define("SHARE_URL","http://purpleartsmedia.com/staging/purple_dolcevita_home/");
         <link rel='stylesheet' href='css/awesom_font.css'>
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/media.css">
+        <link rel="stylesheet" href="css/homeblog.css">
         <link rel="stylesheet" href="css/contact-us.css">
 
         <script src="js/jquery.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
         <script src="js/bxslider/jquery.bxslider.js"></script>
         <link rel="stylesheet" href="js/bxslider/jquery.bxslider.css"> 
-        
-<script src="js/bxslider/jquery.fitvids.js"></script>
+
+        <script src="js/bxslider/jquery.fitvids.js"></script>
         <script>
             $(document).ready(function () {
                 $(".dropdown").hover(
@@ -31,7 +32,7 @@ define("SHARE_URL","http://purpleartsmedia.com/staging/purple_dolcevita_home/");
                 }
                 );
 
-               // $(function () {
+                // $(function () {
 //                    $('.sub-nav ul li').on('click', function () {
 //
 //                        /*$( this ).parent().find('.sub-nav ul li').removeClass( 'activeNav' );
@@ -39,6 +40,7 @@ define("SHARE_URL","http://purpleartsmedia.com/staging/purple_dolcevita_home/");
 //                    });
 //                });
                 //SLIDER FOR MEDIA
+
 				$('.bxslider').bxSlider({
 				auto: true,
 				minSlides: 3,
@@ -72,10 +74,27 @@ define("SHARE_URL","http://purpleartsmedia.com/staging/purple_dolcevita_home/");
 				
 				// vieo in bx slider of home page 
 				//$('.bxslider-video').bxSlider({
-//				  video: true,
-//				  useCSS: false
-//				});
-				
+                $('.bxslider').bxSlider({
+                    auto: true,
+                    minSlides: 3,
+                    maxSlides: 3,
+                    slideWidth: 320,
+                    slideMargin: 35,
+                });
+
+                $('.xyz').bxSlider({
+                    slideWidth: 1005,
+                    pager: false
+                });
+                $('.you_may_also_like').bxSlider({
+                    minSlides: 3,
+                    maxSlides: 3,
+                    slideWidth: 320,
+                    slideMargin: 35,
+                    pager: false
+                });
+
+
             });
         </script>
     </head>
@@ -108,7 +127,7 @@ define("SHARE_URL","http://purpleartsmedia.com/staging/purple_dolcevita_home/");
                                     <ul class="dropdown-menu">
                                         <li><a href="about-us.php">DOLCEVITA HOME</a></li>
                                         <li role="separator" class="divider divider-custum"></li>
-                                        <li><a href="#">THE DIAMOND GROUP</a></li>
+                                        <li><a href="about_the_diamond_group.php">THE DIAMOND GROUP</a></li>
                                     </ul>
                                 </li>
                                 <li>
@@ -165,7 +184,7 @@ define("SHARE_URL","http://purpleartsmedia.com/staging/purple_dolcevita_home/");
                                     <a href="#">ONLINE BOUTIQUE</a>
                                 </li>
                                 <li id="DROP" class="dropdown">
-                                    <a href="contact_us.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">CONTACT US<span class="caret-equal"><img src="images/Dropdown.png" > </span></a>
+                                    <a href="contact_us.php" role="button" aria-haspopup="true" aria-expanded="false">CONTACT US<span class="caret-equal"><img src="images/Dropdown.png" > </span></a>
 
                                     <ul class="dropdown-menu">
                                         <li><a href="contact_us.php">GENERAL INQUIRY</a></li>
