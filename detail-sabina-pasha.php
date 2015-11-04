@@ -1,11 +1,7 @@
 <?php require_once"main/header.php" ?>
     <!-- -------Navbar ends -->
-    <!------container starts ----->
-        <div class="container margin0auto">
-       <div class="row">
-       	<img src="images/Media/detail/Sabina_pasha.jpg">
-        <script>
-window.fbAsyncInit = function() {
+    <script>
+  window.fbAsyncInit = function() {
     FB.init({
       appId      : '769152103230921',
       xfbml      : true,
@@ -20,23 +16,40 @@ window.fbAsyncInit = function() {
      js.src = "//connect.facebook.net/en_US/sdk.js";
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
-   </script>
 
-<!--<button onclick="gogogo()">Share me, please</button>-->
-<script>
-function gogogo() {
-  FB.ui({
-    method: 'feed',
-    link: 'http://purpleartsmedia.com',
-     picture: '<?php echo base_url() ;?>images/Media/detail/Emmad_Irfani.jpg',
-    name: 'Bold And Beautiful!',
-    caption: 'Emad Erfani',
-     description: 'Must read daily!'
-  });
+function share(){
+FB.ui({
+    method: 'share_open_graph',
+    action_type: 'og.shares',
+    action_properties: JSON.stringify({
+        object : {
+           'og:url': '<?PHP echo SHARE_URL?>detail-sabina-pasha.php/', // your url to share
+           'og:title': 'Mehreen Syed ',
+           'og:description': 'Mehreen Syed, Female Models is famous for Modeling, Pakistani celebrity, hot and bold model in Pakistan',
+           'og:image': '<?PHP echo SHARE_URL?>images/Media/detail/Sabina_pasha.jpg'
+        }
+    })
+    },
+    // callback
+    function(response) {
+    if (response && !response.error_message) {
+        // then get post content
+        alert('successfully posted.');
+    } else {
+        alert('Something went error.');
+    }
+});
 }
-  
 </script>
+    <!------container starts ----->
+        <div class="container margin0auto">
+       <div class="row">
+       	<img class="col-xs-12" src="images/Media/detail/Sabina_pasha.jpg">
        </div>
+           <div class="row">
+               <a href="media.php"class="pull-left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Media/back_to_media.png"></a>
+                <a href="javascript:void(0)" onclick="share()" class="share-button pull-right"><img src="images/Media/Share_button.png"></a>
+           </div>
        
             <!--             ...container ends -->
 

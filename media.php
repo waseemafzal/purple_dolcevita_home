@@ -29,7 +29,7 @@
 	}
     </style>
 
-    <div class="container margin0auto">
+    <div  class="container margin0auto">
         <div class="row" id="box_slider">
             <!--<img class=" product_img col-xs-12 col-sm-12 padding0"src="images/Media/3-image-slider.jpg">-->
             <ul class="bxslider">
@@ -48,7 +48,7 @@
       </div>
 </div>
 <!------------------------------------ Products rows Start -------------------------------->
-<div class="row">
+<div class="row" id="bold&beauty">
     <div class=" product_img col-xs-12 col-sm-12 padding0" id="row-fluid-media-heading">
         <center> <img src="images/Media/The-bold.png"></center>
     </div>

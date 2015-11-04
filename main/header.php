@@ -1,3 +1,6 @@
+<?php
+define("SHARE_URL","http://purpleartsmedia.com/staging/purple_dolcevita_home/");
+?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -36,15 +39,38 @@
 //                    });
 //                });
                 //SLIDER FOR MEDIA
-			  $('.bxslider').bxSlider({
-				  auto: true,
-				    minSlides: 3,
-                    maxSlides: 3,
-                    slideWidth: 320,
-                    slideMargin: 35,
-					
-  });
-				// vieo in bx slider of home page
+				$('.bxslider').bxSlider({
+				auto: true,
+				minSlides: 3,
+				maxSlides: 3,
+				slideWidth: 320,
+				slideMargin: 35,
+				});
+				
+				$('#HotPics_slider').bxSlider({
+				auto: false,
+				minSlides: 2,
+				maxSlides: 2,
+				slideWidth: 475,
+				slideMargin: 50,
+				});
+				$('#HotPics_Bottom_slider').bxSlider({
+				auto: true,
+				minSlides: 3,
+				maxSlides: 3,
+				slideWidth: 320,
+				slideMargin: 35,
+				});
+				
+				// new arival slider
+				$('#NewArival_slider').bxSlider({
+				auto: false,
+				minSlides: 1,
+				maxSlides: 1,
+				slideWidth: 900,
+				});
+				
+				// vieo in bx slider of home page 
 				//$('.bxslider-video').bxSlider({
 //				  video: true,
 //				  useCSS: false
@@ -77,7 +103,7 @@
                         <div class="container">
                             <ul class="nav navbar-nav navbar_items">
                                 <li id="DROP" class="dropdown">
-                                    <a href="about-us.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ABOUT US<span class="caret-equal"><img src="images/Dropdown.png" > </span></a>
+                                    <a href="about-us.php" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">ABOUT US<span class="caret-equal"><img src="images/Dropdown.png" > </span></a>
 
                                     <ul class="dropdown-menu">
                                         <li><a href="about-us.php">DOLCEVITA HOME</a></li>
@@ -96,9 +122,20 @@
                                     <a href="media.php"  role="button" aria-haspopup="true" aria-expanded="false">MEDIA<span class="caret-equal"><img src="images/Dropdown.png" > </span></a>
 
                                     <ul class="dropdown-menu">
-                                        <li><a href="#">GALLERY</a></li>
+                                        <li><a href="home-blog.php">HOME BLOG</a></li>
+                                        <li role="separator" class="divider divider-custum"></li>
+                                        <li><a href="hot-pics.php">HOT PICKS</a></li>
+                                        <li role="separator" class="divider divider-custum"></li>
+                                        <li><a href="new-arivals.php">NEW ARIVALS</a></li>
+                                        <li role="separator" class="divider divider-custum"></li>
+                                        <li><a href="connecting-to-dreams.php">	CONNECTING TO DREAMS </a></li>
+                                        <li role="separator" class="divider divider-custum"></li>
+                                        <li><a href="melanuDesign.php">	MELANU & DESIGN </a></li>
+                                        <li role="separator" class="divider divider-custum"></li>
+                                        <li><a href="newyorkchic.php">	NEW YORK CHIC </a></li>
                                         <li role="separator" class="divider divider-custum"></li>
                                         <li><a href="#">ARTICLES</a></li>
+                                       
                                     </ul>
                                 </li>
                                 <li>

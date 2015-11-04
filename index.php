@@ -44,7 +44,7 @@
                         <img class="product_img" src="images/home/img_B&B.png">
                         <div class="home-overlay-txt-box bold_beauty">
                             <img class="home-overlay-txt" src="images/home/txt_B&B.png">
-                            <a href="" > <img class="img-readmore" src="images/home/read_more.png"></a>
+                            <a href="http://127.0.0.1/git/purple_dolcevita_home/media.php#bold&beauty" > <img class="img-readmore" src="images/home/read_more.png"></a>
                         </div>
                     </div>
                     

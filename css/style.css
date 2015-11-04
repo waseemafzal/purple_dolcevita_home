@@ -5,6 +5,9 @@ body {
 .clear {
     clear: both;
 }
+.share-button{
+	padding:0 2.7% 0 0;
+	}
 
 /***************************************************************** 10/28/2015***********************/
 
@@ -223,7 +226,7 @@ body {
     padding: 2% 0;
 }
 #footer {
-    padding: 0 0 1%;
+    padding: 2% 0 1%;
 }
 .col-xs-12 .product_img {
     width: 100%;
