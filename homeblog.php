@@ -29,13 +29,17 @@
             <img class="col-xs-12" src="images/homeblog/superchic.png">
         </div>
     </div>
-    <div class="font_style margintop30px fontsize18px">
+    <div class="font_style margintop30px fontsize18px marginbottom30px">
         <p>
-            Contrary to popular belief, lorem Ipsum is not simply random text. It has roots in a piece of classical Latin Liiterature from 45 BC, making it over 2000 years old.
-            Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure latin words, consectetur, from a lorem ipsum passage, and going through the cites of the wod in clssical literature discovered the undoubtable source.
-            lorem ipsum compes from section 1.10.32 and 1.10.33 of "die finibus bonorum et malorum" (the extreme of good and evil) by cicero, written in 45 BC.
-            this book is treatise on the throty of ethics, very popular during the Renais-sance.
-            the first line of lorem ipsum, "lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+            A world traveller and style evangelist, The Girl with the Green Hat is Dolce Vita Home’s Lifestyle Maestro
+
+            & Blog Artiste.  With an eye for all things chic, and a personality to match, she tells it like it is, compelling 
+
+            her opinions with an air of eccentrism  & a “diva risque” attitude! The Home Blogs brings you her take 
+
+            on What’s Cool around the world in latest home and lifestyle trends, along with tips on creating your 
+
+            own Uber Chic and Extraordinary Homes.
         </p>
     </div>
     <div class="main-container margin0auto">
@@ -209,27 +213,27 @@
                     </div>
                 </div>
             </div>
-<!--            <div>
-                <div class="textalcenter">
-                    <h3 class="letterspace3px fontsize18px">
-                        <a href="#">
-                            I AM KING
-                        </a>
-                    </h3>
-                </div>
-                <div class="marginleft28px">
-                    <a href="#">
-                        <img src="images/homeblog/trends_main.png">
-                    </a>
-                </div>
-                <div>
-                    <div class="marginbottom115px textalcenter fontsize20px" style="font-style: italic;">
-                        <p>
-                            Contrary to popular belief,lorem Ipsum is not simply random text
-                        </p>
-                    </div>
-                </div>
-            </div>-->
+            <!--            <div>
+                            <div class="textalcenter">
+                                <h3 class="letterspace3px fontsize18px">
+                                    <a href="#">
+                                        I AM KING
+                                    </a>
+                                </h3>
+                            </div>
+                            <div class="marginleft28px">
+                                <a href="#">
+                                    <img src="images/homeblog/trends_main.png">
+                                </a>
+                            </div>
+                            <div>
+                                <div class="marginbottom115px textalcenter fontsize20px" style="font-style: italic;">
+                                    <p>
+                                        Contrary to popular belief,lorem Ipsum is not simply random text
+                                    </p>
+                                </div>
+                            </div>
+                        </div>-->
             <div>
                 <div class="marginleft28px">
                     <img src="images/homeblog/quote-of-the-week.png">
