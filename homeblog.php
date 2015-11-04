@@ -41,6 +41,7 @@
     <div class="main-container margin0auto">
         <ul class="xyz">
             <li><img src="images/homeblog/dolcevitasuperchic.png" /></li>
+            <li><img src="images/homeblog/conecting.png" /></li>
             <li><img src="images/homeblog/milano-n-design.png" /></li>
         </ul>
         <div class="row margin0auto w995px marginbottom30px">
@@ -80,13 +81,13 @@
             <div>
                 <div class="textalcenter">
                     <h3 class="letterspace3px fontsize18px">
-                        <a href="#">
+                        <a href="trends.php">
                             TRENDS
                         </a>
                     </h3>
                 </div>
                 <div class="marginleft28px">
-                    <a href="#">
+                    <a href="trends.php">
                         <img src="images/homeblog/trends_main.png">
                     </a>
                 </div>
@@ -102,7 +103,7 @@
 
             <div>
                 <div class="marginleft28px">
-                    <a href="#">
+                    <a href="trends.php">
                         <img src="images/homeblog/trends_submain.png">
                     </a>
                 </div>
@@ -141,13 +142,13 @@
             <div>
                 <div class="textalcenter">
                     <h3 class="letterspace3px fontsize18px">
-                        <a href="#">
+                        <a href="life_style.php">
                             LIFE STYLE
                         </a>
                     </h3>
                 </div>
                 <div class="marginleft28px">
-                    <a href="#">
+                    <a href="life_style.php">
                         <img src="images/homeblog/life_style.png">
                     </a>
                 </div>
@@ -164,13 +165,13 @@
             <div>
                 <div class="textalcenter">
                     <h3 class="letterspace3px fontsize18px">
-                        <a href="#">
+                        <a href="sleep_is_beautiful.php">
                             SLEEP IS BEAUTIFUL
                         </a>
                     </h3>
                 </div>
                 <div class="marginleft28px">
-                    <a href="#">
+                    <a href="sleep_is_beautiful.php">
                         <img src="images/homeblog/sleep_is_beautiful.png">
                     </a>
                 </div>
@@ -208,7 +209,7 @@
                     </div>
                 </div>
             </div>
-            <div>
+<!--            <div>
                 <div class="textalcenter">
                     <h3 class="letterspace3px fontsize18px">
                         <a href="#">
@@ -228,7 +229,7 @@
                         </p>
                     </div>
                 </div>
-            </div>
+            </div>-->
             <div>
                 <div class="marginleft28px">
                     <img src="images/homeblog/quote-of-the-week.png">

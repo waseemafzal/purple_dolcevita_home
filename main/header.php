@@ -98,12 +98,12 @@
                         <div class="container">
                             <ul class="nav navbar-nav navbar_items">
                                 <li id="DROP" class="dropdown">
-                                    <a href="about-us.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ABOUT US<span class="caret-equal"><img src="images/Dropdown.png" > </span></a>
+                                    <a href="about-us.php"  role="button" aria-haspopup="true" aria-expanded="false">ABOUT US<span class="caret-equal"><img src="images/Dropdown.png" > </span></a>
 
                                     <ul class="dropdown-menu">
                                         <li><a href="about-us.php">DOLCEVITA HOME</a></li>
                                         <li role="separator" class="divider divider-custum"></li>
-                                        <li><a href="#">THE DIAMOND GROUP</a></li>
+                                        <li><a href="about_the_diamond_group.php">THE DIAMOND GROUP</a></li>
                                     </ul>
                                 </li>
                                 <li>
@@ -149,7 +149,7 @@
                                     <a href="#">ONLINE BOUTIQUE</a>
                                 </li>
                                 <li id="DROP" class="dropdown">
-                                    <a href="contact_us.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">CONTACT US<span class="caret-equal"><img src="images/Dropdown.png" > </span></a>
+                                    <a href="contact_us.php" role="button" aria-haspopup="true" aria-expanded="false">CONTACT US<span class="caret-equal"><img src="images/Dropdown.png" > </span></a>
 
                                     <ul class="dropdown-menu">
                                         <li><a href="contact_us.php">GENERAL INQUIRY</a></li>

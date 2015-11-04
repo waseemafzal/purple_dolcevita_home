@@ -249,7 +249,7 @@ map {
 .description {
     font-size: 16px;
     margin-top: 20px !important;
-    padding: 0 15%;
+/*    padding: 0 15%;*/
 }
 .sub-pages {
     width: 998px;
