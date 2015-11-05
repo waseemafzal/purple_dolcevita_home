@@ -2,13 +2,7 @@
     <ul class="textalcenter">
         <li class="<?php if (basename($_SERVER['PHP_SELF']) == 'nouveauaccessories.php') echo 'activeNav'; ?>">
             <a href="nouveauaccessories.php">
-                Accessories
-            </a>
-            <div><img src="images/arrow.png"></div>
-        </li>
-        <li class="<?php if (basename($_SERVER['PHP_SELF']) == 'nouveaulightsnlamps.php') echo 'activeNav'; ?>">
-            <a href="nouveaulightsnlamps.php">
-                Light & Lamps
+                Accessories And Light & Lamps
             </a>
             <div><img src="images/arrow.png"></div>
         </li>

@@ -6,8 +6,8 @@ body {
     clear: both;
 }
 .share-button{
-	padding:0 2.7% 0 0;
-	}
+    padding:0 2.7% 0 0;
+}
 
 /***************************************************************** 10/28/2015***********************/
 
@@ -252,10 +252,10 @@ map {
 .description {
     font-size: 16px;
     margin-top: 20px !important;
-/*    padding: 0 15%;*/
+    /*    padding: 0 15%;*/
 }
 .sub-pages {
-    width: 998px;
+    width: 1112px;
 }
 .sub-nav {
     background-color: black;
@@ -303,7 +303,7 @@ map {
     color: #fff;
 }
 .sub-nav-nouveau {
-    width: 330px;
+    width: 335px;
 }
 .sub-nav-restoration {
     width: 360px;
@@ -311,7 +311,7 @@ map {
 .sub_nav_luxury_sleep_system {
 }
 .sub_nav_luxury_sleep_system > ul > li {
-    padding-right: 42px;
+    padding-right: 64px;
 }
 .end-product {
     font-family: georgea;
@@ -391,7 +391,7 @@ map {
     border-bottom: 1px solid black;
 }
 .maginl118px {
-    margin: 72px 0 66px 42px;
+    margin: 65px 17px 35px 0px;
 }
 .paddingl32px {
     padding-left: 32px;

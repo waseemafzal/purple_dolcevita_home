@@ -2,13 +2,13 @@
     <!-- -------Navbar ends -->
     <!------container starts ----->
         <div class="container margin0auto">
-        <div class="row">
+<!--        <div class="row">
                 <div>
                     <img src="images/innner_pages/TheNewYorkChic-slider.png" class="col-xs-12">
                 </div>
-            </div>
-       <div class="row"><br><br><br><br>
-       	<img src="images/innner_pages/TheNewYorkChic.png">
+            </div>-->
+       <div class="row">
+       	<img src="images/innner_pages/the_new_york_chic.png">
        </div>
        
             <!--             ...container ends -->

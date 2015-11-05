@@ -51,17 +51,17 @@
         <div class="row margin0auto w995px marginbottom30px">
             <div>
                 <div class="displayinlineblck">
-                    <a href="#">
+                    <a href="newyorkchic.php">
                         <img src="images/homeblog/dolcevitachair.png">
                     </a>
                 </div>
                 <div class="displayinlineblck paddinglr52px">
-                    <a href="#">
+                    <a href="connecting-to-dreams.php">
                         <img src="images/homeblog/conecting-to-dream-makers.png">
                     </a>
                 </div>
                 <div class="displayinlineblck">
-                    <a href="#">
+                    <a href="melanuDesign.php">
                         <img src="images/homeblog/minalo_design.png">
                     </a>
                 </div>
@@ -121,13 +121,13 @@
             <div>
                 <div class="trends_heading textalcenter">
                     <h3 class="letterspace3px fontsize18px">
-                        <a href="#">
+                        <a href="hot-pics.php">
                             HOT PICS
                         </a>
                     </h3>
                 </div>
                 <div class="marginleft28px">
-                    <a href="#">
+                    <a href="hot-pics.php">
                         <img src="images/homeblog/hot_pics.png">
                     </a>
                 </div>
@@ -195,13 +195,13 @@
             <div>
                 <div class="textalcenter">
                     <h3 class="letterspace3px fontsize18px">
-                        <a href="#">
+                        <a href="new-arivals.php">
                             NEW ARRIVALS
                         </a>
                     </h3>
                 </div>
                 <div class="marginleft28px">
-                    <a href="#">
+                    <a href="new-arivals.php">
                         <img src="images/homeblog/new_arrivals.png">
                     </a>
                 </div>

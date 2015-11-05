@@ -4,7 +4,17 @@
 <div class="container margin0auto font_style">
     <div class="row">
         <div>
-            <img class="col-xs-12"src="images/about-us/slider.png">
+            <ul class="klmn">
+                <li>
+                    <img class="col-xs-12"src="images/about-us/about_us_1.png">
+                </li>
+                <li>
+                    <img class="col-xs-12"src="images/about-us/about_us_2.png">
+                </li>
+                <li>
+                    <img class="col-xs-12"src="images/about-us/about_us_3.png">
+                </li>
+            </ul>
         </div>
     </div>
     <div>

@@ -4,20 +4,38 @@
 <div class="container margin0auto">
     <div class="row">
         <div>
-            <img class="col-xs-12" src="images/luxury-furniture/luxury-sleep-system/sleep-tonic/slider.png">
+            <ul class="klmn">
+                <li>
+                    <img class="col-xs-12" src="images/luxury-sleep-system/luxury_sleep_systems1.png">
+                </li>
+                <li>
+                    <img class="col-xs-12" src="images/luxury-sleep-system/luxury_sleep_systems2.png">
+                </li>
+                <li>
+                    <img class="col-xs-12" src="images/luxury-sleep-system/luxury_sleep_systems3.png">
+                </li>
+                <li>
+                    <img class="col-xs-12" src="images/luxury-sleep-system/luxury_sleep_systems4.png">
+                </li>
+            </ul>
         </div>
     </div>
     <div class="main-container margin0auto">
+        <div class="row">
+            <div class="col-xs-12 margintop30px">
+                <img src="images/luxury-sleep-system/sleep-tonic/text.png">
+            </div>
+        </div>
         <br><br>
         <?php require_once "main/sub_nav_luxury_sleep_system.php" ?>
 
         <div class="end-product row">
             <div class="col-md-8 padding0">
-                <img src="images/luxury-furniture/luxury-sleep-system/sleep-tonic/image.png" class="w100p">
+                <img src="images/luxury-sleep-system/sleep-tonic/image.png" class="w100p">
             </div>
             <div class="col-md-4 paddingl32px paddingr0px">
                 <div class="row end-product-description">
-                    <img src="images/luxury-furniture/luxury-sleep-system/sleep-tonic/specs.png">
+                    <img src="images/luxury-sleep-system/sleep-tonic/specs.png">
                 </div>
             </div>
 
@@ -29,4 +47,5 @@
 
 
     <!------------------------------------ FOOTER START-------------------------------->
-      <?php require_once"main/footer.php" ?>
+    <?php require_once"main/footer.php" ?>
+</div>

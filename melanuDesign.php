@@ -7,8 +7,8 @@
                     <img src="images/innner_pages/MELANO&DESIGNslider.png" class="col-xs-12">
                 </div>
             </div>
-       <div class="row"><br><br><br><br>
-       	<img src="images/innner_pages/MELANO&DESIGN.png">
+       <div class="row">
+           <img src="images/innner_pages/milano_n_design.png">
        </div>
        
             <!-- container ends -->

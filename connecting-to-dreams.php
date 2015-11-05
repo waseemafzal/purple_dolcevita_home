@@ -7,7 +7,7 @@
                     <img src="images/innner_pages/connecting-to-dreams-Slider.png" class="col-xs-12">
                 </div>
             </div>
-       <div class="row"><br><br><br><br>
+       <div class="row">
        	<img src="images/innner_pages/connecting-to-dreams.png">
        </div>
             <!--             ...container ends -->

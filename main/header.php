@@ -1,5 +1,5 @@
 <?php
-define("SHARE_URL","http://purpleartsmedia.com/staging/purple_dolcevita_home/");
+define("SHARE_URL", "http://purpleartsmedia.com/staging/purple_dolcevita_home/");
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -41,39 +41,39 @@ define("SHARE_URL","http://purpleartsmedia.com/staging/purple_dolcevita_home/");
 //                });
                 //SLIDER FOR MEDIA
 
-				$('.bxslider').bxSlider({
-				auto: true,
-				minSlides: 3,
-				maxSlides: 3,
-				slideWidth: 320,
-				slideMargin: 35,
-				});
-				
-				$('#HotPics_slider').bxSlider({
-				auto: false,
-				minSlides: 2,
-				maxSlides: 2,
-				slideWidth: 475,
-				slideMargin: 50,
-				});
-				$('#HotPics_Bottom_slider').bxSlider({
-				auto: true,
-				minSlides: 3,
-				maxSlides: 3,
-				slideWidth: 320,
-				slideMargin: 35,
-				});
-				
-				// new arival slider
-				$('#NewArival_slider').bxSlider({
-				auto: false,
-				minSlides: 1,
-				maxSlides: 1,
-				slideWidth: 900,
-				});
-				
-				// vieo in bx slider of home page 
-				//$('.bxslider-video').bxSlider({
+                $('.bxslider').bxSlider({
+                    auto: true,
+                    minSlides: 3,
+                    maxSlides: 3,
+                    slideWidth: 320,
+                    slideMargin: 35,
+                });
+
+                $('#HotPics_slider').bxSlider({
+                    auto: false,
+                    minSlides: 2,
+                    maxSlides: 2,
+                    slideWidth: 475,
+                    slideMargin: 50,
+                });
+                $('#HotPics_Bottom_slider').bxSlider({
+                    auto: true,
+                    minSlides: 3,
+                    maxSlides: 3,
+                    slideWidth: 320,
+                    slideMargin: 35,
+                });
+
+                // new arival slider
+                $('#NewArival_slider').bxSlider({
+                    auto: false,
+                    minSlides: 1,
+                    maxSlides: 1,
+                    slideWidth: 900,
+                });
+
+                // vieo in bx slider of home page 
+                //$('.bxslider-video').bxSlider({
                 $('.bxslider').bxSlider({
                     auto: true,
                     minSlides: 3,
@@ -93,6 +93,14 @@ define("SHARE_URL","http://purpleartsmedia.com/staging/purple_dolcevita_home/");
                     slideMargin: 35,
                     pager: false
                 });
+                $('.klmn').bxSlider({
+                    auto: true,
+                    pager: false,
+                    controls: false,
+                    
+                    
+                });
+
 
 
             });
@@ -154,7 +162,7 @@ define("SHARE_URL","http://purpleartsmedia.com/staging/purple_dolcevita_home/");
                                         <li><a href="newyorkchic.php">	NEW YORK CHIC </a></li>
                                         <li role="separator" class="divider divider-custum"></li>
                                         <li><a href="#">ARTICLES</a></li>
-                                       
+
                                     </ul>
                                 </li>
                                 <li>

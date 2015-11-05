@@ -33,15 +33,16 @@
         <div class="row" id="box_slider">
             <!--<img class=" product_img col-xs-12 col-sm-12 padding0"src="images/Media/3-image-slider.jpg">-->
             <ul class="bxslider">
-                <li><a href="#" ><img src="images/Media/Dolce-Vita-Website_11.png" /></a></li>
-                <li><a href="#" ><img src="images/Media/Dolce-Vita-Website_13.png" /></a></li>
-                <li><a href="#" ><img src="images/Media/Dolce-Vita-Website_15.png" /></a></li>
-                <li><a href="#" ><img src="images/Media/Dolce-Vita-Website_11.png" /></a></li>
-                <li><a href="#" ><img src="images/Media/Dolce-Vita-Website_13.png" /></a></li>
-                <li><a href="#" ><img src="images/Media/Dolce-Vita-Website_15.png" /></a></li>
-                <li><a href="#" ><img src="images/Media/Dolce-Vita-Website_11.png" /></a></li>
-                <li><a href="#" ><img src="images/Media/Dolce-Vita-Website_13.png" /></a></li>
-                <li><a href="#" ><img src="images/Media/Dolce-Vita-Website_15.png" /></a></li>
+                <li><a href="express_tribune_detail.php" ><img src="images/Media/in-the-news/news/express_tribune.png"/></a></li>
+                <li><a href="infotainment_detail.php" ><img src="images/Media/in-the-news/news/infotainment.png"/></a></li>
+                <li><a href="observer_detail.php" ><img src="images/Media/in-the-news/news/observer.png"/></a></li>
+                <li><a href="niche_detail.php" ><img src="images/Media/in-the-news/news/niche.png"/></a></li>
+                <li><a href="express-tribune_detail.php" ><img src="images/Media/in-the-news/news/exprress-tribune.png"/></a></li>
+                <li><a href="paperazzi_detail.php" ><img src="images/Media/in-the-news/news/paperazzi.png"/></a></li>
+                <li><a href="social_diaries_detail.php" ><img src="images/Media/in-the-news/news/social-diaries.png"/></a></li>
+                <li><a href="sunday_detail.php" ><img src="images/Media/in-the-news/news/sunday.png"/></a></li>
+                <li><a href="sunday_times_detail.php" ><img src="images/Media/in-the-news/news/sunday-times.png"/></a></li>
+                <li><a href="weekend_detail.php" ><img src="images/Media/in-the-news/news/weekend.png"/></a></li>
             </ul>
            
         </div>
