@@ -10,7 +10,7 @@
     <div>
         <div class=" heading textalcenter margin0auto">
             <h3 class="dolcevita-heading" >
-                D O L C E <span class="vita">V I T A </span> H O M E
+                D O L C E <span class="vita">V I T A </span> H O M E    izhar
             </h3>    
             <div class="underline-34"></div>    
         </div>
