@@ -24,14 +24,14 @@
             </div>
             <div class="job_description">
                 <p>
-                    Duties Include <br>
+                    Duties Include: <br>
                     Front Desk Sales, After Sales Services, Showroom Ambiance And Maintenance, Showroom Operations, Inventory Maintenance, SOPs Executions,
                     Liaising, General Accounts
                 </p>
             </div>
             <div class="job_applying">
                 <form>
-                    <a href="#">
+                    <a href="showroom_manager_details.php">
                         <img src="images/contact-us/careers/apply_now.png">
                     </a>
                 </form>
@@ -53,13 +53,13 @@
             </div>
             <div class="job_description">
                 <p>
-                    Duties Include <br>
+                    Duties Include: <br>
                     Front Desk Sales And Client Handling, Store Opening/Closing, Order Generation Till Delivery, General Accounts Maintenance
                 </p>
             </div>
             <div class="job_applying">
                 <form>
-                    <a href="#">
+                    <a href="sales_executive_details.php">
                         <img src="images/contact-us/careers/apply_now.png">
                     </a>
                 </form>
@@ -81,13 +81,13 @@
             </div>
             <div class="job_description">
                 <p>
-                    Duties Include <br>
+                    Duties Include: <br>
                     Involvement of Architect And Interior Designer, Commercial Projects, Strategy And Planning Of Enhancement Of Cooperate Clients.
                 </p>
             </div>
             <div class="job_applying">
                 <form>
-                    <a href="#">
+                    <a href="cooperate_sales_manager_details.php">
                         <img src="images/contact-us/careers/apply_now.png">
                     </a>
                 </form>
@@ -109,13 +109,13 @@
             </div>
             <div class="job_description">
                 <p>
-                    Duties Include <br>
+                    Duties Include: <br>
                     Interior Consultancy, Showroom Interior Up gradation, Placement Of New Arrivals, 3D Requirements.
                 </p>
             </div>
             <div class="job_applying">
                 <form>
-                    <a href="#">
+                    <a href="interior_designer_details.php">
                         <img src="images/contact-us/careers/apply_now.png">
                     </a>
                 </form>

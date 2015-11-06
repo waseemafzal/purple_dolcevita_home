@@ -26,7 +26,17 @@
         <?php require_once "main/subNav.php" ?>
         <div class="end-product row">
             <div class="col-md-6 padding0">
-                <img src="images/luxury-furniture/beds/image.png" class="">
+                <ul class="luxury_furniture">
+                    <li>
+                        <img src="images/luxury-furniture/beds/luxury_furniture_beds.png">
+                    </li>
+                    <li>
+                        <img src="images/luxury-furniture/beds/luxury_furniture_beds1.png">
+                    </li>
+                    <li>
+                        <img src="images/luxury-furniture/beds/luxury_furniture_beds2.png">
+                    </li>
+                </ul>
             </div>
             <div class="col-md-6 paddingl32px paddingr0px">
                 <div class="end-product-heading">

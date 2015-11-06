@@ -10,7 +10,7 @@
         </a>
     </div>
     <div class="displayinlineblck maginl118px">
-        <a href="restoration-lightning.php">
+        <a href="restoration-living.php">
             <img src="images/luxury-furniture/beds/restoration_living.png">
         </a>
     </div>

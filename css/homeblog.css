@@ -32,6 +32,9 @@ a:hover {
 .marginbottom15px {
     margin-bottom: 15px;
 }
+.margintop400px {
+     margin-top: 400px;
+}
 .textalleft {
     text-align: left;
 }
@@ -44,4 +47,10 @@ a:hover {
 }
 .w788px {
     width: 788px;
+}
+.w88pc {
+    width: 88%;
+}
+.marginbottom15px {
+    margin-bottom: 15px;
 }

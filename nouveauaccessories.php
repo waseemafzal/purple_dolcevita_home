@@ -26,7 +26,14 @@
 
         <div class="end-product row">
             <div class="col-md-6 padding0">
-                <img src="images/luxury-furniture/nouveau/nouveau_accessories.png" class="w100p">
+                <ul class="luxury_furniture">
+                    <li>
+                        <img src="images/luxury-furniture/nouveau/nouveau_accessories.png">
+                    </li>
+                    <li>
+                        <img src="images/luxury-furniture/nouveau/nouveau_lightlamps.png">
+                    </li>
+                </ul>
             </div>
             <div class="col-md-6 paddingl32px paddingr0px">
                 <div class="end-product-heading">

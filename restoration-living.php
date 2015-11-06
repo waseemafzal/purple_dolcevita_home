@@ -21,7 +21,14 @@
 
         <div class="end-product row">
             <div class="col-md-6 padding0">
-                <img src="images/restoration-living/Dolce-Vita-Website-updated-option-5_10.png" class="w100p">
+                <ul class="luxury_furniture">
+                    <li>
+                        <img src="images/restoration-living/luxury_restoration_living.png">
+                    </li>
+                    <li>
+                        <img src="images/restoration-living/luxury_restoration_living1.png">
+                    </li>
+                </ul>
             </div>
             <div class="col-md-6 paddingl32px paddingr0px">
                 <div class="end-product-heading">

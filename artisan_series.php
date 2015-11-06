@@ -20,7 +20,14 @@
 
         <div class="end-product row">
             <div class="col-md-6 padding0">
-                <img src="images/artisan_series/image_2.png">
+                <ul class="luxury_furniture">
+                    <li>
+                        <img src="images/artisan_series/artisan_.png">
+                    </li>
+                    <li>
+                        <img src="images/artisan_series/artisan1.png">
+                    </li>
+                </ul>
             </div>
             <div class="col-md-6 padding0">
                 <div class="end-product-heading">

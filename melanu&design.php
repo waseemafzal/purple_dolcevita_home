@@ -20,7 +20,14 @@
 
         <div class="end-product row">
             <div class="col-md-6 padding0">
-                <img src="images/M&D/Dolce-Vita-Website-updated-option-5_10.png" class="w100p">
+                <ul class="luxury_furniture">
+                    <li>
+                        <img src="images/M&D/milano_n_design.png">
+                    </li>
+                    <li>
+                        <img src="images/M&D/milano_n_design1.png">
+                    </li>
+                </ul>
             </div>
             <div class="col-md-6 paddingl32px paddingr0px">
                 <div class="end-product-heading">

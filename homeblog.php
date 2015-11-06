@@ -29,7 +29,7 @@
             <img class="col-xs-12" src="images/homeblog/superchic.png">
         </div>
     </div>
-    <div class="font_style margintop30px fontsize18px marginbottom30px">
+    <div class="font_style margintop30px fontsize18px marginbottom30px textalcenter">
         <p>
             A world traveller and style evangelist, The Girl with the Green Hat is Dolce Vita Home’s Lifestyle Maestro
 
@@ -113,7 +113,7 @@
                 </div>
                 <div class="marginbottom68px textalcenter fontsize20px" style="font-style: italic;">
                     <p>
-                        Contrary to popular belief,lorem Ipsum is not simply random text
+                        Made For Attraction
                     </p>
                 </div>
             </div>
@@ -135,7 +135,7 @@
                 <div>
                     <div class="marginbottom68px textalcenter fontsize20px" style="font-style: italic;">
                         <p>
-                            Contrary to popular belief,lorem Ipsum is not simply random text
+                            The Aria From<br> Milano & Design
                         </p>
                     </div>
                 </div>
@@ -158,9 +158,9 @@
                 </div>
 
                 <div>
-                    <div class="marginbottom68px textalcenter fontsize20px" style="font-style: italic;">
+                    <div class="marginbottom115px textalcenter fontsize20px" style="font-style: italic;">
                         <p>
-                            Contrary to popular belief,lorem Ipsum is not simply random text
+                            Just A Little "LOCO"<br> About Details
                         </p>
                     </div>
                 </div>
@@ -179,12 +179,12 @@
                         <img src="images/homeblog/sleep_is_beautiful.png">
                     </a>
                 </div>
-                <div class="marginbottom68px textalcenter fontsize20px" style="font-style: italic;">
+                <div class="textalcenter fontsize20px" style="font-style: italic;">
                     <p>
-                        Contrary to popular belief,lorem Ipsum is not simply random text
+                        A Plush Kind Of Life
                     </p>
                 </div>
-                <div>
+                <div class="margintop400px">
                     <img src="images/homeblog/qoute_of_the_day.png">
                 </div>
             </div>
@@ -208,32 +208,32 @@
                 <div>
                     <div class="marginbottom68px textalcenter fontsize20px" style="font-style: italic;">
                         <p>
-                            Contrary to popular belief,lorem Ipsum is not simply random text
+                            The Clocks Collection<br>2016 Nouveau by<br>Dolce Vita Home
                         </p>
                     </div>
                 </div>
             </div>
-            <!--            <div>
-                            <div class="textalcenter">
-                                <h3 class="letterspace3px fontsize18px">
-                                    <a href="#">
-                                        I AM KING
-                                    </a>
-                                </h3>
-                            </div>
-                            <div class="marginleft28px">
-                                <a href="#">
-                                    <img src="images/homeblog/trends_main.png">
-                                </a>
-                            </div>
-                            <div>
-                                <div class="marginbottom115px textalcenter fontsize20px" style="font-style: italic;">
-                                    <p>
-                                        Contrary to popular belief,lorem Ipsum is not simply random text
-                                    </p>
-                                </div>
-                            </div>
-                        </div>-->
+            <div>
+                <div class="textalcenter">
+                    <h3 class="letterspace3px fontsize18px">
+                        <a href="i_am_king.php">
+                            I AM KING
+                        </a>
+                    </h3>
+                </div>
+                <div class="marginleft28px">
+                    <a href="i_am_king.php">
+                        <img src="images/homeblog/i_am_king.png">
+                    </a>
+                </div>
+                <div>
+                    <div class="marginbottom68px textalcenter fontsize20px" style="font-style: italic;">
+                        <p>
+                            Man About The House
+                        </p>
+                    </div>
+                </div>
+            </div>
             <div>
                 <div class="marginleft28px">
                     <img src="images/homeblog/quote-of-the-week.png">

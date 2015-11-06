@@ -29,7 +29,17 @@
 
         <div class="end-product row">
             <div class="col-md-6 padding0">
-                <img src="images/luxury-furniture/center-tables/image.png" class="w100p">
+                <ul class="luxury_furniture">
+                    <li>
+                        <img src="images/luxury-furniture/center-tables/luxury_furniture_center_tables.png">
+                    </li>
+                    <li>
+                        <img src="images/luxury-furniture/center-tables/luxury_furniture_center_tables1.png">
+                    </li>
+                    <li>
+                        <img src="images/luxury-furniture/center-tables/luxury_furniture_center_tables2.png">
+                    </li>
+                </ul>
             </div>
             <div class="col-md-6 paddingl32px paddingr0px">
                 <div class="end-product-heading">

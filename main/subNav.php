@@ -26,7 +26,7 @@
         </li>
         <li class="<?php if (basename($_SERVER['PHP_SELF']) == 'ottomans.php') echo 'activeNav'; ?>">
             <a href="ottomans.php">
-                Ottumans
+                Ottomans
             </a>
             <div><img src="images/arrow.png"></div>
         </li>
@@ -50,7 +50,7 @@
         </li>
         <li class="<?php if (basename($_SERVER['PHP_SELF']) == 'diningmeetingtables.php') echo 'activeNav'; ?>">
             <a href="diningmeetingtables.php">
-                Dining and Meeting Tables
+                Dining Tables
             </a>
             <div><img src="images/arrow.png"></div>
         </li>

@@ -29,7 +29,17 @@
 
         <div class="end-product row">
             <div class="col-md-6 padding0">
-                <img src="images/luxury-furniture/chairs/image.png" class="w100p">
+                <ul class="luxury_furniture">
+                    <li>
+                        <img src="images/luxury-furniture/chairs/luxury_furniture_chairs.png">
+                    </li>
+                    <li>
+                        <img src="images/luxury-furniture/chairs/luxury_furniture_chairs1.png">
+                    </li>
+                    <li>
+                        <img src="images/luxury-furniture/chairs/luxury_furniture_chairs2.png">
+                    </li>
+                </ul>
             </div>
             <div class="col-md-6 paddingl32px paddingr0px">
                 <div class="end-product-heading">

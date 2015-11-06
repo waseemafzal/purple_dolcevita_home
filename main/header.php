@@ -60,8 +60,8 @@ define("SHARE_URL", "http://purpleartsmedia.com/staging/purple_dolcevita_home/")
                     auto: true,
                     minSlides: 3,
                     maxSlides: 3,
-                    slideWidth: 320,
-                    slideMargin: 35,
+                    slideWidth: 299,
+                    slideMargin: 57,
                 });
 
                 // new arival slider
@@ -70,6 +70,7 @@ define("SHARE_URL", "http://purpleartsmedia.com/staging/purple_dolcevita_home/")
                     minSlides: 1,
                     maxSlides: 1,
                     slideWidth: 900,
+                    
                 });
 
                 // vieo in bx slider of home page 
@@ -87,6 +88,7 @@ define("SHARE_URL", "http://purpleartsmedia.com/staging/purple_dolcevita_home/")
                     pager: false
                 });
                 $('.you_may_also_like').bxSlider({
+                    auto: true,
                     minSlides: 3,
                     maxSlides: 3,
                     slideWidth: 320,
@@ -97,8 +99,11 @@ define("SHARE_URL", "http://purpleartsmedia.com/staging/purple_dolcevita_home/")
                     auto: true,
                     pager: false,
                     controls: false,
-                    
-                    
+                });
+                $('.luxury_furniture').bxSlider({
+                    auto: true,
+                    pager: false,
+                    controls: false,
                 });
 
 
@@ -189,7 +194,7 @@ define("SHARE_URL", "http://purpleartsmedia.com/staging/purple_dolcevita_home/")
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="#">ONLINE BOUTIQUE</a>
+                                    <a href="online_boutique.php">ONLINE BOUTIQUE</a>
                                 </li>
                                 <li id="DROP" class="dropdown">
                                     <a href="contact_us.php" role="button" aria-haspopup="true" aria-expanded="false">CONTACT US<span class="caret-equal"><img src="images/Dropdown.png" > </span></a>

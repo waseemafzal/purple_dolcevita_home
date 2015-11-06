@@ -245,7 +245,7 @@ map {
 }
 .main-container {
     font-family: georgia;
-    width: 1111px;
+    width: 1130px;
 }
 .heading {
 }
@@ -255,7 +255,7 @@ map {
     /*    padding: 0 15%;*/
 }
 .sub-pages {
-    width: 1112px;
+    width: 1166px;
 }
 .sub-nav {
     background-color: black;
@@ -281,8 +281,8 @@ map {
 .sub-nav > ul > li {
     display: inline-block;
     float: left;
-    margin: 13px 0 0 !important;
-    padding-right: 22px;
+    margin: 16px 0 0 !important;
+    padding-right: 37px;
 }
 .sub-nav > ul > li > a {
     color: white;
@@ -303,15 +303,21 @@ map {
     color: #fff;
 }
 .sub-nav-nouveau {
-    width: 335px;
+    width: 350px;
 }
 .sub-nav-restoration {
-    width: 360px;
+    width: 420px;
 }
 .sub_nav_luxury_sleep_system {
 }
 .sub_nav_luxury_sleep_system > ul > li {
-    padding-right: 64px;
+    padding-right: 62px;
+}
+#margintop11px {
+    margin-top: 11px !important;
+}
+#margintop13px {
+    margin-top: 13px !important;
 }
 .end-product {
     font-family: georgea;
@@ -391,7 +397,7 @@ map {
     border-bottom: 1px solid black;
 }
 .maginl118px {
-    margin: 65px 17px 35px 0px;
+    margin: 65px 27px 35px 0px;
 }
 .paddingl32px {
     padding-left: 32px;

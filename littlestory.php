@@ -29,7 +29,17 @@
 
         <div class="end-product row">
             <div class="col-md-6 padding0">
-                <img src="images/luxury-furniture/little-story/image.png" class="w100p">
+                <ul class="luxury_furniture">
+                    <li>
+                        <img src="images/luxury-furniture/little-story/luxury_furniture_little_story.png">
+                    </li>
+                    <li>
+                        <img src="images/luxury-furniture/little-story/luxury_furniture_little_story1.png">
+                    </li>
+                    <li>
+                        <img src="images/luxury-furniture/little-story/luxury_furniture_little_story2.png">
+                    </li>
+                </ul>
             </div>
             <div class="col-md-6 paddingl32px paddingr0px">
                 <div class="end-product-heading">
