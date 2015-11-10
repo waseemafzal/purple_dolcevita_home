@@ -75,10 +75,10 @@
     </div>
     <div class="container margin0auto">
         <div class="row">
-            <a href="#"><img class="videos"src="images/Media/Dolce-Vita-Website_61.png"></a>
-            <a href="#"><img class="videos"src="images/Media/Dolce-Vita-Website_64.png"></a>
-            <a href="#"><img class="videos"src="images/Media/Dolce-Vita-Website_66.png"></a>
-            <a href="#"><img class="videos"src="images/Media/Dolce-Vita-Website_61.png"></a>
+            <a href="https://player.vimeo.com/video/138063318" target="_blank"><img class="videos"src="images/Media/Dolce-Vita-Website_61.png"></a>
+            <a href="https://player.vimeo.com/video/121466600" target="_blank"><img class="videos"src="images/Media/Dolce-Vita-Website_64.png"></a>
+            <a href="https://player.vimeo.com/video/121462849" target="_blank"><img class="videos"src="images/Media/Dolce-Vita-Website_66.png"></a>
+            <a href="https://player.vimeo.com/video/137926455" target="_blank"><img class="videos"src="images/Media/Dolce-Vita-Website_61.png"></a>
         </div>
     </div>  
 </div>
